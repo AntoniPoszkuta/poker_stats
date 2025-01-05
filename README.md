@@ -10,4 +10,5 @@ COLUMNS DESCRIPRION
     player_id - Distinct number of a player
     Number_of_wins - how mamy times player won a game
     Number_of_of looses - how many times player lost a game
-    
+  NOTE : 
+    3/5/10 players csv simulation files were tested on 50000 rounds
