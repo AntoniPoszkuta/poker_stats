@@ -1,0 +1,11 @@
+Hand Name,Number of hands played,Number of hand wins,Number of hand losses,Hand win percent,Hand loss percent
+High Card,75641,6350,69291,8.395%,91.605%
+Pair,62928,33074,29854,52.558%,47.442%
+Two Pair,7219,6515,704,90.248%,9.752%
+Three of a kind,3031,2919,112,96.305%,3.695%
+Straight,543,540,3,99.448%,0.552%
+Flush,307,306,1,99.674%,0.326%
+Full House,244,244,0,100.0%,0.0%
+Four of a kind,29,29,0,100.0%,0.0%
+Straight Flush,2,2,0,100.0%,0.0%
+Royal Flush,0,0,0,Ulozenie nie wylosowane,Ulozenie nie wylosowane
