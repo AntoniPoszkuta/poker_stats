@@ -151,13 +151,13 @@ for x in range(10):
     else:
         win_percent.append([x,'Ulozenie nie wylosowane'])
         loss_percent.append([x,'Ulozenie nie wylosowane'])
-print(result)
-print(winning_hand)
-print(losing_hand)
-print(hand_count)
-print(win_percent)
-print(loss_percent)
-print(f'rezultat: {sum(result)}, wygrane: {sum(x[1] for x in winning_hand)}, przegrane: {sum(x[1] for x in losing_hand)}, test: {test_value1}')
+# print(result)
+# print(winning_hand)
+# print(losing_hand)
+# print(hand_count)
+# print(win_percent)
+# print(loss_percent)
+# print(f'rezultat: {sum(result)}, wygrane: {sum(x[1] for x in winning_hand)}, przegrane: {sum(x[1] for x in losing_hand)}, test: {test_value1}')
 hand_names = [
     'High Card',
     'Pair',
